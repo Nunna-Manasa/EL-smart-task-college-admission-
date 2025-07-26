@@ -1,0 +1,9 @@
+Respond to emails,HIGH,2025-07-18
+Project report finalization,HIGH,2025-07-24
+Project submission,HIGH,2025-07-25
+Call doctor for appointment,MEDIUM,2025-07-18
+Organize project files,MEDIUM,2025-07-22
+Pay internet bill,MEDIUM,2025-07-28
+Call bestfriend for casual talk,LOW,2025-07-21
+Buy groceries,LOW,2025-07-24
+Attend relatives marriage,LOW,2025-07-30
